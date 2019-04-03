@@ -43,3 +43,13 @@ It's **highly advisable** to create a separate `Python` [virtual environment](ht
 **Note:** Udacity guide recommends using the [Conda](https://conda.io/) `Python` distribution which overrides the system `Python` setup. The author of this repository refuses to mess with the system `Python` and was successful with setting up the workspace without using the Conda `Python` distribution.
 
 
+3. Download the environment from one of the links below. You need only select the environment that matches your operating system:
+    - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+    - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+    - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+    - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+    
+4. Move the downloaded file to the project directory and unzip (or decompress) it.
+
+5. Open the ProjectNavigation.ipynb in a jupyter notebook a run the cells or the last one to run a pretrained model
+
